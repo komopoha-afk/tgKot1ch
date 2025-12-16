@@ -1,0 +1,19 @@
+{
+  "name": "kotich-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram бот Котича и Весперейда",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": ["telegram", "bot", "game"],
+  "author": "Kotich & Vesperade",
+  "license": "MIT"
+}
